@@ -7,6 +7,9 @@ public class CodigoEstatico {
 	Persona persona1 = new Persona("Juan");
 	System.out.println("Persona1: " + persona1);
 	
+	Persona persona2 = new Persona("Javier");
+	System.out.println("Persona2: " + persona2);
+	
 	//imprimimos el contador de objetos Persona
 	System.out.println("No. Personas " + Persona.getContadorPersonas());
 
@@ -39,7 +42,7 @@ class Persona {
     
     @Override
     public String toString() {
-	return "Nombre: " + nombre;
+	return "Nombre: " + nombre + " idPersona: " + idPersona;
     }
     
 }
