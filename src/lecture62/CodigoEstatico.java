@@ -37,6 +37,7 @@ class Persona {
 	return contadorPersonas;
     }
     
+    @Override
     public String toString() {
 	return "Nombre: " + nombre;
     }
