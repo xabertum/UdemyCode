@@ -5,7 +5,7 @@ public class CodigoEstatico {
     public static void main(String[] args) {
 
 	Persona persona1 = new Persona("Juan");
-	System.out.println("Persona1: " + persona1.toString());
+	System.out.println("Persona1: " + persona1);
 	
 	//imprimimos el contador de objetos Persona
 	System.out.println("No. Personas " + Persona.getContadorPersonas());
