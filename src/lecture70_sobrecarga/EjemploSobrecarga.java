@@ -19,6 +19,7 @@ public class EjemploSobrecarga {
 	
 	//Creamos un objeto empleado
 	Empleado empleado1 = new Empleado("Aroa", 25, 19000);
+	System.out.println("\nImprimimos el objeto Empleado1");
 	System.out.println(empleado1);
 
     }
