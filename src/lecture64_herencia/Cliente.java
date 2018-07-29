@@ -1,6 +1,3 @@
-/**
- * 
- */
 package lecture64_herencia;
 
 import java.util.Date;
