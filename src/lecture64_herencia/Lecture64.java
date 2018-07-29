@@ -10,8 +10,6 @@ class Persona {
     }
 }
 
-
-
 public class Lecture64 extends Persona {
 
     double sueldo;
