@@ -20,7 +20,7 @@ public class Persona {
     
     @Override
     public String toString() {
-	return "Persona {" + "idPersona=" + idPersona + ", nombre=" + nombre +
+	return "Persona { " + "idPersona=" + idPersona + ", nombre=" + nombre +
 		", edad" + edad + " }";
 	
     }
