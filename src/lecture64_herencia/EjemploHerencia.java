@@ -21,10 +21,18 @@ public class EjemploHerencia {
 	System.out.println("imprimimos el objeto Empleado2");
 	System.out.println(empleado2);
 	
+	//Al crear un nuevo objeto de java.util.Date nos regresa la fecha actual
+	Cliente cliente1 = new Cliente(new java.util.Date(), true);
+	System.out.println("imprimimos el objeto Cliente1");
+	System.out.println(cliente1);
 	
-	
-	
-	
+	//Completamos el objeto persona asociado a este objeto cliente
+	cliente1.setNombre("Karla");
+	cliente1.setEdad(22);
+	cliente1.setGenero('F');
+	cliente1.setDireccion("Mexico, DF");
+	System.out.println("volvemos a imprimir el objeto cliente1");
+	System.out.println(cliente1);
 	
 
     }
