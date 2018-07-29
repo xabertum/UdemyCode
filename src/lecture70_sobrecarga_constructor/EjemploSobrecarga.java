@@ -1,4 +1,4 @@
-package lecture70_sobrecarga;
+package lecture70_sobrecarga_constructor;
 
 public class EjemploSobrecarga {
 
