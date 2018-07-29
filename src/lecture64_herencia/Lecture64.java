@@ -25,6 +25,7 @@ public class Lecture64 extends Persona {
 	
     }
     
+    @Override
     public String toString () {
 	return super.toString() + "Lecture64 { " + sueldo + " }";
     }
