@@ -1,8 +1,8 @@
 package lecture74_ejemploPaquetes;
 
 public class Utileria {
-    public static void imprimir (String s){
-        System.out.println("irmpimiendo mensaje: " + s);
+    public static void imprimir (String mensaje){
+        System.out.println("irmpimiendo mensaje: " + mensaje);
     }
 
 }
