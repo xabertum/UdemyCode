@@ -1,10 +1,10 @@
 package lecture64_herencia;
 
-class PersonaEjemplo {
+class PersonEjemplo {
     
     String nombre;
     
-    public PersonaEjemplo (String nombre) {
+    public PersonEjemplo (String nombre) {
 	this.nombre = nombre;
     }
     
@@ -15,7 +15,7 @@ class PersonaEjemplo {
     
 }
 
-public class Lecture64 extends PersonaEjemplo {
+public class Lecture64 extends PersonEjemplo {
 
     double sueldo;
     
