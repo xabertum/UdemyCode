@@ -21,7 +21,7 @@ public class EjemploMatrices {
 	
 	for (int i = 0; i < personas.length; i++) {
 	    for (int j = 0; j < personas[i].length; j++) {
-		System.out.println("matriz personas indice: " + i + "-" + j + ": " + personas[i][j]);
+		System.out.println("Matriz personas indice: " + i + "-" + j + ": " + personas[i][j]);
 	    }
 	}
 
