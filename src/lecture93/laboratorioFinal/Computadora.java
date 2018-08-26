@@ -7,11 +7,12 @@ public class Computadora {
     private Monitor monitor;
     private Teclado teclado;
     private Raton raton;
+    private static int contadorComputadoras;
     
     
     // Constructor
     private Computadora () {
-	this.idComputadora = idComputadora++;
+	this.idComputadora = ++contadorComputadoras;
     }
     
     
@@ -25,8 +26,8 @@ public class Computadora {
     }
     
     public String toString () {
-	return "Computadora { " + "Nombre = " + nombre + " Monitor = " + monitor
-		+ " Teclado = " + teclado + " Raton = " + raton;
+	return "Computadora { " + "idComputador = " + idComputadora + "Nombre = " + nombre
+		+ " Monitor = " + monitor + " Teclado = " + teclado + " Raton = " + raton;
     }
 
 
