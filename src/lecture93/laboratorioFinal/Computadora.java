@@ -11,7 +11,7 @@ public class Computadora {
     
     // Constructor
     private Computadora () {
-	
+	this.idComputadora = idComputadora++;
     }
     
     
