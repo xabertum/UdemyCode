@@ -19,6 +19,21 @@ public class Ventas {
 	
 	// imprimimos la orden
 	orden1.mostrarOrden();
+	
+	// Creamos una segunda orden
+	Orden orden2 = new Orden();
+	
+	// Creamos nuevos productos
+	Producto producto4 = new Producto("zapatos", 200);
+	Producto producto5 = new Producto("Blusa", 90);
+	
+	// Agregamos productos a la orden 2
+	orden2.agregarProducto(producto4);
+	orden2.agregarProducto(producto5);
+	
+	// Imprimimos la orden 2
+	System.out.println("");
+	orden2.mostrarOrden();
 
     }
 
