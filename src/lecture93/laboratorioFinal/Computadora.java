@@ -2,7 +2,7 @@ package lecture93.laboratorioFinal;
 
 public class Computadora {
 
-    private static int idComputadora;
+    private int idComputadora;
     private String nombre;
     private Monitor monitor;
     private Teclado teclado;
@@ -32,13 +32,13 @@ public class Computadora {
 
     // Getters & Setters
     
-    public static int getIdComputadora() {
+    public int getIdComputadora() {
         return idComputadora;
     }
 
 
-    public static void setIdComputadora(int idComputadora) {
-        Computadora.idComputadora = idComputadora;
+    public void setIdComputadora(int idComputadora) {
+        this.idComputadora = idComputadora;
     }
 
 
