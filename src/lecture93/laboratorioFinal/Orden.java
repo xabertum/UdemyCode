@@ -22,7 +22,14 @@ public class Orden {
 	}
     }
     
-    
+    public void mostrarOrden () {
+	System.out.println("Orden #: " + idOrden);
+	System.out.println("Computadores de la orden # " + idOrden + ":");
+	
+	for (int i = 0; i < contadorComputadoras; i++) {
+	    System.out.println(computadoras[i]);
+	}
+    }
     
     
 }
