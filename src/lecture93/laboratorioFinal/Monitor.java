@@ -2,14 +2,14 @@ package lecture93.laboratorioFinal;
 
 public class Monitor {
 
-    private int idMonitor;
+    private final int idMonitor;
     private String marca;
     private double tamano;
     private static int contadorMonitores;
     
     // Constructor principal
     private Monitor () {
-	this.idMonitor = contadorMonitores++;
+	this.idMonitor = ++contadorMonitores;
     }
     
     
@@ -32,10 +32,7 @@ public class Monitor {
         return idMonitor;
     }
 
-    public void setIdMonitor(int idMonitor) {
-        this.idMonitor = idMonitor;
-    }
-
+    
     public String getMarca() {
         return marca;
     }
