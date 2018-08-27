@@ -1,5 +1,4 @@
 package lecture99.javaDoc;
-import lecture99.javaDoc.*;
 
 /**
  * Clase para probar el concepto de JavaDoc
@@ -15,7 +14,7 @@ public class EjemploJavaDoc {
      */
     public static void main(String[] args) {
 	int resultado = new Aritmetica(3,2).sumar();
-
+	System.out.println("Resultado: " + resultado);
     }
 
 }
