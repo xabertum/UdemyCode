@@ -21,9 +21,12 @@ public class Aritmetica {
     
     /**
      * Constructor vacio de la clase
+     * @param j 
+     * @param i 
      */
-    public Aritmetica() {
-	// TODO Auto-generated constructor stub
+    public Aritmetica(int i, int j) {
+	this.operandoA = i;
+	this.operandoB = j;
     }
     
     /**
