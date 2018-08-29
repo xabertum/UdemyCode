@@ -5,7 +5,7 @@ public class EjemploVarArgs {
     public static void main(String[] args) {
 	
 
-    }
+   }
 
     public static void imprimirNumeros(int... numeros) {
 	// Recorremos cada elemento
