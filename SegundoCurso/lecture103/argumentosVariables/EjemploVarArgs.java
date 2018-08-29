@@ -5,10 +5,7 @@ public class EjemploVarArgs {
     public static void main(String[] args) {
 	// Imprimimos varios numeros
 	imprimirNumeros(15,20,3,61,75,18,10);
-	
-	System.out.println("");
-	imprimirNumerosElemento(15,20,3,61,75,18,10);
-	
+		
 	System.out.println("");
 	imprimirNumerosForEach(15,20,3,61,75,18,10);
 	
@@ -23,16 +20,8 @@ public class EjemploVarArgs {
 	    System.out.println("Elemento " + i + numeros[i]);
 	}
     }
-    
-    public static void imprimirNumerosElemento(int... numeros) {
-	// Recorremos cada elemento
-	int elemento;
-	for (int i = 0; i < numeros.length; i++) {
-	    elemento = numeros[i];
-	    System.out.println("Elemento " + i + elemento);
-	}
-    }
-    
+  
+ 
     public static void imprimirNumerosForEach(int... numeros) {
 	// Usamos forEach en lugar de un for normal
 	for (int numero : numeros) {
