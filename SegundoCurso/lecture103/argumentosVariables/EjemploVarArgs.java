@@ -17,7 +17,7 @@ public class EjemploVarArgs {
     public static void imprimirNumeros(int... numeros) {
 	// Recorremos cada elemento
 	for (int i = 0; i < numeros.length; i++) {
-	    System.out.println("Elemento " + i + numeros[i]);
+	    System.out.println("Elemento " + i + ": " + numeros[i]);
 	}
     }
   
