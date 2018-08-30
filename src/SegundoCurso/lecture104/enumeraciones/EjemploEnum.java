@@ -10,6 +10,7 @@ public class EjemploEnum {
         indicarDia(Dias.VIERNES);
 
         // Utilizamos la enumeracion de paises
+        System.out.println();
         System.out.println("Continente no. 4: " + Continentes.AMERICA);
         System.out.println("Paises en America: " + Continentes.AMERICA.getPaises());
 
