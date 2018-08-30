@@ -39,5 +39,40 @@ public class EjemploEnum {
         }
     }
 
+    public static void indicarPaises(Continentes continentes) {
+        switch (continentes) {
+            // Podemos usar algun valor constante
+            // de la enum directamente
+            case AFRICA:
+                System.out.println("No. Paises en: " + continentes + ": " +
+                        continentes.getPaises());
+                break;
+            case EUROPA:
+                System.out.println("No. Paises en: " + continentes + ": " +
+                        continentes.getPaises());
+                break;
+            case ASIA:
+                System.out.println("No. Paises en: " + continentes + ": " +
+                        continentes.getPaises());
+                break;
+            case AMERICA:
+                System.out.println("No. Paises en: " + continentes + ": " +
+                        continentes.getPaises());
+                break;
+            case OCEANIA:
+                System.out.println("No. Paises en: " + continentes + ": " +
+                        continentes.getPaises());
+                break;
+        }
+    }
+
+    public static void imprimirContinentes() {
+        // Utilizamos un forEach
+        for (Continentes continentes : Continentes.values()) {
+            System.out.println("Continente" + continentes + " contiene " +
+                    continentes.getPaises() + " paises.");
+            break;
+        }
+    }
 
 }
