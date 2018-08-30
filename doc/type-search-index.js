@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"lecture99.javaDoc","l":"EjemploJavaDoc"}]

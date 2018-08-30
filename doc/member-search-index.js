@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"lecture99.javaDoc","c":"EjemploJavaDoc","l":"EjemploJavaDoc()"},{"p":"lecture99.javaDoc","c":"EjemploJavaDoc","l":"main(String[])","url":"main-java.lang.String:A-"}]
