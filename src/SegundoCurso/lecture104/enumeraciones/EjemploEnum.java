@@ -81,7 +81,7 @@ public class EjemploEnum {
     public static void imprimirContinentes() {
         // Utilizamos un forEach
         for (Continentes continentes : Continentes.values()) {
-            System.out.println("Continente" + continentes + " contiene " +
+            System.out.println("Continente " + continentes + " contiene " +
                     continentes.getPaises() + " paises.");
             break;
         }
