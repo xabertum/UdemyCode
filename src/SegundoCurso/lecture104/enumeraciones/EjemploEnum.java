@@ -9,6 +9,18 @@ public class EjemploEnum {
         // Hacemos un test del dia utilizado
         indicarDia(Dias.VIERNES);
 
+        // Utilizamos la enumeracion de paises
+        System.out.println("Continente no. 4: " + Continentes.AMERICA);
+        System.out.println("Paises en America: " + Continentes.AMERICA.getPaises());
+
+        // Hacemos el test del numero de paises por continente
+        System.out.println();
+        indicarPaises(Continentes.AFRICA);
+
+        // Imprimimos los continentes
+        System.out.println();
+        imprimirContinentes();
+
 
     }
 
