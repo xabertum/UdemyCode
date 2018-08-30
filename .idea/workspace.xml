@@ -88,14 +88,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1342" />
-          <entry key="txt" value="19" />
+          <entry key="java" value="1349" />
+          <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1342" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="JAVA" value="1349" />
+          <entry key="PLAIN_TEXT" value="30" />
         </counts>
       </usages-collector>
     </session>
@@ -108,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="356">
+              <caret line="85" column="58" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -245,7 +245,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535646589428" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535646917888" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -376,7 +376,28 @@
       <option name="project" value="LOCAL" />
       <updated>1535646334166</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" added example">
+      <created>1535646509173</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1535646509173</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Minor fixes">
+      <created>1535646607092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1535646607092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Minor fixes">
+      <created>1535646665541</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1535646665541</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -388,15 +409,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49910393" visible="true" weight="0.2997225" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49910393" visible="true" weight="0.2997225" />
       <window_info id="Structure" order="6" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007599" side_tool="true" weight="0.33076924" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013876" side_tool="true" weight="0.4625113" />
       <window_info anchor="bottom" id="Messages" order="2" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49953747" weight="0.33076924" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924013" weight="0.4625113" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4986124" visible="true" weight="0.4625113" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -472,7 +493,8 @@
     <MESSAGE value="intelliJ integration" />
     <MESSAGE value="added example" />
     <MESSAGE value=" added example" />
-    <option name="LAST_COMMIT_MESSAGE" value=" added example" />
+    <MESSAGE value="Minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -540,8 +562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="356">
+          <caret line="85" column="58" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
         </state>
       </provider>
     </entry>

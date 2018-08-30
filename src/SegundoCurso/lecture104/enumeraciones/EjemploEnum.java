@@ -84,7 +84,6 @@ public class EjemploEnum {
         for (Continentes continentes : Continentes.values()) {
             System.out.println("Continente " + continentes + " contiene " +
                     continentes.getPaises() + " paises.");
-            break;
         }
     }
 
