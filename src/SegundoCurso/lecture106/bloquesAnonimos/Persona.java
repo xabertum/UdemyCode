@@ -21,6 +21,12 @@ public class Persona {
         idPersona = ++contadorPersonas;
     }
 
+    Persona () {
+        System.out.println("Ejecuta constructor");
+    }
 
+    public int getIdPersona () {
+        return idPersona;
+    }
 
 }
