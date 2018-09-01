@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/Persona.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,24 +78,24 @@
     <session id="596131526">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1349" />
-          <entry key="txt" value="31" />
+          <entry key="java" value="1918" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1349" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="JAVA" value="1918" />
+          <entry key="PLAIN_TEXT" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -111,11 +112,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/BloquesCodigo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/Persona.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -162,6 +181,8 @@
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Dias.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Continentes.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/BloquesCodigo.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/Persona.java" />
       </list>
     </option>
   </component>
@@ -224,7 +245,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535827110744" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535827212200" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -390,11 +411,19 @@
       <option name="project" value="LOCAL" />
       <updated>1535713548141</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added example">
+      <created>1535827191857</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1535827191857</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1120" y="30" width="1141" height="1245" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -486,7 +515,8 @@
     <MESSAGE value="added example" />
     <MESSAGE value=" added example" />
     <MESSAGE value="Minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor fixes" />
+    <MESSAGE value="Added example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,6 +580,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/BloquesCodigo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
