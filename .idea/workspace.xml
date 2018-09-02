@@ -287,7 +287,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535904075480" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535904489871" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -311,7 +311,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EjemploForEach">
+  <component name="RunManager" selected="Application.Autoboxing">
+    <configuration name="Autoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture110.autoboxing.Autoboxing" />
+      <module name="UdemyCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SegundoCurso.lecture110.autoboxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BloquesCodigo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture106.bloquesCodigo.BloquesCodigo" />
       <module name="UdemyCode" />
@@ -369,9 +382,11 @@
       <item itemvalue="Application.EjemploEnum" />
       <item itemvalue="Application.BloquesCodigo" />
       <item itemvalue="Application.EjemploForEach" />
+      <item itemvalue="Application.Autoboxing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Autoboxing" />
         <item itemvalue="Application.EjemploForEach" />
         <item itemvalue="Application.BloquesCodigo" />
         <item itemvalue="Application.EjemploEnum" />

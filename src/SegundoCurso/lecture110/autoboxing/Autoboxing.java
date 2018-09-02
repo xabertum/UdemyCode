@@ -8,7 +8,7 @@ public class Autoboxing {
         Double dobleObj = 40.1;
 
         System.out.println("Autoboxing");
-        System.out.println("Entero Obj: " + enteroObj.intValue());
+        System.out.println("Entero Obj: " + enteroObj);
         System.out.println("Flotante Ojb: " + flotanteObj.floatValue());
         System.out.println("Double Obj: " + dobleObj.doubleValue());
 
