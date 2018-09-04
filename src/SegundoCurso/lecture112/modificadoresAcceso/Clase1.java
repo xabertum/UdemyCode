@@ -27,4 +27,19 @@ public class Clase1 {
         System.out.println("Constructor privado 4");
     }
 
+    // Definición de metodos
+    public int metodoPublico () {
+        return 9;
+    }
+
+    protected int metodoProtegido() {
+        return 10;
+    }
+
+    int metodoPaquete() {
+        return 11;
+    }
+     private int metodoPrivado() {
+        return 12;
+     }
 }
