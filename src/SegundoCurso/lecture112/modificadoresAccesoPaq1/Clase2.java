@@ -22,9 +22,16 @@ public class Clase2 {
         // Acceso a clase 1 desde clase 2
         Clase1 clase1 = new Clase1();
         System.out.println();
+        System.out.println("Atributo publico: " + clase1.atrPublico);
+        System.out.println("Atributo protegido: " + clase1.atrProtegido);
+        System.out.println("Atributo default: " + clase1.atrPâquete);
+        System.out.println("Atributo private: Acceso denegado");
 
-
-
+        System.out.println();
+        System.out.println("Metodo publico: " + clase1.metodoPublico());
+        System.out.println("Metodo protegido: " + clase1.metodoProtegido());
+        System.out.println("Metodo default: " + clase1.metodoPaquete());
+        System.out.println("Metodo private: Acceso denegado");
 
     }
 
