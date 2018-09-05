@@ -21,8 +21,7 @@ public class Clase3 extends Clase1 {
         // Clase 3 extiende de Clase1
         Clase1 clase1 = new Clase1();
         System.out.println();
-        System.out.println("Atributo Publico: " + clase1.atrPublico +
-                "o heredado: " + atrPublico);
+        System.out.println("Atributo Publico: " + clase1.atrPublico + "o heredado: " + atrPublico);
         System.out.println("Atributo protegido (heredado): " + atrProtegido);
         System.out.println("Atributo default: No se puede acceder desde un paquete externo");
         System.out.println("Atributo private: Acceso denegado");
