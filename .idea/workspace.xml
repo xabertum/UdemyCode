@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,23 +80,23 @@
     <session id="596131526">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6132" />
+          <entry key="java" value="6166" />
           <entry key="txt" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6132" />
+          <entry key="JAVA" value="6166" />
           <entry key="PLAIN_TEXT" value="52" />
         </counts>
       </usages-collector>
@@ -115,32 +116,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -162,8 +137,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Empleado.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="e#520#521#0" expanded="true" />
                 <element signature="e#549#550#0" expanded="true" />
@@ -178,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Gerente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="408">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="e#396#397#0" expanded="true" />
                 <element signature="e#442#443#0" expanded="true" />
@@ -196,10 +171,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase4.java">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/EjemploPolimorfismo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Empleado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -269,6 +280,9 @@
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/EjemploSobreescritura.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Empleado.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/EjemploPolimorfismo.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Empleado.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java" />
       </list>
     </option>
   </component>
@@ -323,6 +337,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
+              <item name="sobreescrituraMetodos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
+              <item name="polimorfismo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -331,7 +359,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536318675255" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536318779727" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -722,11 +750,40 @@
       <option name="project" value="LOCAL" />
       <updated>1536308961310</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Added example">
+      <created>1536318570581</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318570581</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added example">
+      <created>1536318606839</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318606839</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added example">
+      <created>1536318672507</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318672507</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added example">
+      <created>1536318703273</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318703273</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1120" y="30" width="1141" height="1245" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -737,11 +794,11 @@
       <window_info id="Structure" order="6" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013876" side_tool="true" weight="0.4625113" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32942238" />
+      <window_info anchor="bottom" id="Messages" order="2" visible="true" weight="0.32881662" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49953747" weight="0.33076924" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4986124" visible="true" weight="0.4625113" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4986124" weight="0.4625113" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -957,10 +1014,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/EjemploSobreescritura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/EjemploPolimorfismo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Empleado.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="e#520#521#0" expanded="true" />
             <element signature="e#549#550#0" expanded="true" />
@@ -974,17 +1045,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/EjemploSobreescritura.java">
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Empleado.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Gerente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="e#396#397#0" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
@@ -992,6 +1073,21 @@
             <element signature="e#548#549#0" expanded="true" />
             <element signature="e#604#605#0" expanded="true" />
             <element signature="e#652#653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
           </folding>
         </state>
       </provider>
