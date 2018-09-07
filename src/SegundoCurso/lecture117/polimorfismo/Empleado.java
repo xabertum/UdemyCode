@@ -14,7 +14,7 @@ public class Empleado {
 
     public String obtenerDetalles() {
         return "Nombre: " + nombre +
-                " Sueldo: " + sueldo;
+                ", Sueldo: " + sueldo;
     }
 
     // Getters & Setters
