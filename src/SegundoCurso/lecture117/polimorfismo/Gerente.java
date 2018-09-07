@@ -11,7 +11,7 @@ public class Gerente extends Empleado {
     // Sobreescribimos el metodo padre heredado
     @Override
     public String obtenerDetalles() {
-        return super.obtenerDetalles() + " Departamento: " + departamento;
+        return super.obtenerDetalles() + ", Departamento: " + departamento;
     }
 
     // Getters & setters
