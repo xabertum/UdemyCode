@@ -8,6 +8,7 @@ public class EjemploPolimorfismo {
         imprimirDetalles(empleado);
 
         Gerente gerente = new Gerente("Karla", 2000, "Finanzas");
+        imprimirDetalles(gerente);
     }
 
     // Observamos que el tipo que recibe el metodo es del tipo padre (Empleado)
