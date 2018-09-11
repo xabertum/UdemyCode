@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,14 +90,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6597" />
-          <entry key="txt" value="53" />
+          <entry key="java" value="6694" />
+          <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6597" />
-          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="JAVA" value="6694" />
+          <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -130,8 +130,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/FiguraGeometrica.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,16 +158,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -252,8 +260,9 @@
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/EjemploInstanceOf.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Rectangulo.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Triangulo.java" />
-        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/FiguraGeometrica.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java" />
       </list>
     </option>
   </component>
@@ -323,7 +332,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536654629657" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536654725522" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -440,27 +449,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00001" summary="added example">
-      <created>1533362256610</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1533362256610</updated>
-    </task>
-    <task id="LOCAL-00002" summary="intelliJ integration">
-      <created>1533362344424</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1533362344424</updated>
-    </task>
-    <task id="LOCAL-00003" summary="added example">
-      <created>1533362826980</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1533362826980</updated>
     </task>
     <task id="LOCAL-00004" summary="added example">
       <created>1535627153332</created>
@@ -784,7 +772,28 @@
       <option name="project" value="LOCAL" />
       <updated>1536654407139</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Added example">
+      <created>1536654484624</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654484626</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Added example">
+      <created>1536654598908</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654598908</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Added example">
+      <created>1536654689401</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654689402</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1070,13 +1079,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/FiguraGeometrica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Rectangulo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1091,17 +1093,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/FiguraGeometrica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="57" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
