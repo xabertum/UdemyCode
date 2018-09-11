@@ -43,10 +43,10 @@ public class EjemploInstanceOf {
         } else if (figuraGeometrica instanceof Circulo) {
             // Procesa algo particular del Circulo
             System.out.println("Es un circulo");
-        }else if (figuraGeometrica instanceof FiguraGeometrica) {
+        } else if (figuraGeometrica instanceof FiguraGeometrica) {
             // Procesa algo particular de la FiguraGeometrica
             System.out.println("Es una FiguraGeometrica");
-        }else if (figuraGeometrica instanceof Object) {
+        } else if (figuraGeometrica instanceof Object) {
             // Procesa algo particular de la clase Object
             System.out.println("Es un Object");
         } else {
