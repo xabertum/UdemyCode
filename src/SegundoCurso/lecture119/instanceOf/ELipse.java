@@ -1,4 +1,4 @@
 package SegundoCurso.lecture119.instanceOf;
 
-public class ELipse {
+public class ELipse extends Circulo {
 }
