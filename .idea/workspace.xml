@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,7 +138,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -174,7 +173,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -349,7 +348,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537259365892" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537267347307" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -466,13 +465,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Minor fixes">
-      <created>1535713548141</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1535713548141</updated>
     </task>
     <task id="LOCAL-00015" summary="Added example">
       <created>1535827191857</created>
@@ -810,7 +802,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537259349683</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Added example">
+      <created>1537259600206</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1537259600206</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1145,13 +1144,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1181,6 +1173,13 @@
             <element signature="e#602#603#0" expanded="true" />
             <element signature="e#650#651#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
