@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,13 +90,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7907" />
+          <entry key="java" value="8138" />
           <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7907" />
+          <entry key="JAVA" value="8138" />
           <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
@@ -120,11 +120,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#412#413#0" expanded="true" />
                 <element signature="e#441#442#0" expanded="true" />
@@ -139,11 +139,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -267,11 +275,11 @@
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Triangulo.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Rectangulo.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/EjemploInstanceOf.java" />
-        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/EjemploConversionObjetos.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" />
       </list>
     </option>
   </component>
@@ -341,7 +349,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537258877320" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537259365892" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -458,13 +466,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Minor fixes">
-      <created>1535647199909</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1535647199909</updated>
     </task>
     <task id="LOCAL-00014" summary="Minor fixes">
       <created>1535713548141</created>
@@ -802,7 +803,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537258340782</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Added example">
+      <created>1537259349682</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1537259349683</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1123,13 +1131,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1153,8 +1154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#412#413#0" expanded="true" />
             <element signature="e#441#442#0" expanded="true" />
@@ -1164,6 +1165,21 @@
             <element signature="e#583#584#0" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
           </folding>
         </state>
       </provider>
