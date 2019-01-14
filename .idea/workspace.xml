@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Armas/Arma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Armas/Espada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Personaje/Personaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Demonio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Elfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Humano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Orco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Raza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pruebas_P6/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/AccesoDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionMysql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionOracle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/EjemploHerencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/EjemploHerencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Lecture64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +26,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionMysql.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -163,16 +150,16 @@
         <option value="$PROJECT_DIR$/src/Pruebas_P6/Raza/Humano.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/ManejoInterfaces.java" />
         <option value="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Empleado.java" />
-        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/AccesoDatos.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionOracle.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionMysql.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="577" />
-    <option name="width" value="790" />
+    <option name="x" value="697" />
+    <option name="width" value="670" />
     <option name="height" value="775" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -235,6 +222,14 @@
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
               <item name="datos" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="manejointerfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -242,7 +237,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547489286412" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547489833471" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -361,13 +356,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Added example">
-      <created>1535827530774</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1535827530774</updated>
     </task>
     <task id="LOCAL-00018" summary="Added example">
       <created>1535827919766</created>
@@ -705,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537267761346</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Added example">
+      <created>1547489429289</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1547489429290</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TodoView">
@@ -718,7 +713,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="577" y="0" width="790" height="775" extended-state="0" />
+    <frame x="697" y="0" width="670" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -726,12 +721,12 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49910393" visible="true" weight="0.3452055" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49910393" weight="0.3442623" />
       <window_info id="Structure" order="6" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32942238" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013876" side_tool="true" weight="0.4608295" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32851985" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49953747" weight="0.33032492" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49953747" weight="0.33021808" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4986124" visible="true" weight="0.45076784" />
@@ -1046,13 +1041,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/AccesoDatos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1082,6 +1070,16 @@
             <element signature="e#214#215#0" expanded="true" />
             <element signature="e#257#258#0" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
