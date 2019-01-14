@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,20 +48,22 @@
     <session id="1651100190">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -78,33 +80,37 @@
     <session id="596131526">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5538" />
-          <entry key="txt" value="52" />
+          <entry key="java" value="8476" />
+          <entry key="txt" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5538" />
-          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="JAVA" value="8476" />
+          <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.10" value="5" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -115,72 +121,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesCodigo/Persona.java">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture108/foreach/EjemploForEach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture110/autoboxing/Autoboxing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase2.java">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="62" lean-forward="true" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+            <state relative-caret-position="340">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+              <folding>
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase4.java">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/EjemploConversionObjetos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -247,14 +275,31 @@
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase1.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase2.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/EjemploSobreescritura.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Empleado.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Empleado.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/EjemploPolimorfismo.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/FiguraGeometrica.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Triangulo.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Rectangulo.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/EjemploInstanceOf.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/EjemploConversionObjetos.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1271" />
-    <option name="y" value="34" />
-    <option name="width" value="1296" />
-    <option name="height" value="1414" />
+    <option name="x" value="1270" />
+    <option name="y" value="32" />
+    <option name="width" value="1297" />
+    <option name="height" value="1415" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -304,35 +349,19 @@
               <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture112" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture112" type="462c0819:PsiDirectoryNode" />
-              <item name="modificadoresAccesoPaq1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture112" type="462c0819:PsiDirectoryNode" />
-              <item name="modificadoresAccesoPaq2" type="462c0819:PsiDirectoryNode" />
+              <item name="CastingOfObjects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536097133872" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537267492467" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -356,39 +385,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Autoboxing">
+  <component name="RunManager" selected="Application.EjemploInstanceOf">
     <configuration name="Autoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture110.autoboxing.Autoboxing" />
       <module name="UdemyCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SegundoCurso.lecture110.autoboxing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BloquesCodigo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture106.bloquesCodigo.BloquesCodigo" />
-      <module name="UdemyCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SegundoCurso.lecture106.bloquesCodigo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture104.enumeraciones.EjemploEnum" />
-      <module name="UdemyCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SegundoCurso.lecture104.enumeraciones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,12 +412,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploVarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture103.argumentosVariables.EjemploVarArgs" />
+    <configuration name="EjemploInstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture119.instanceOf.EjemploInstanceOf" />
       <module name="UdemyCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture72_sobrecarga_metodos.*" />
+          <option name="PATTERN" value="SegundoCurso.lecture119.instanceOf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploPolimorfismo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture117.polimorfismo.EjemploPolimorfismo" />
+      <module name="UdemyCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SegundoCurso.lecture117.polimorfismo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploSobreescritura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SegundoCurso.lecture115.sobreescrituraMetodos.EjemploSobreescritura" />
+      <module name="UdemyCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SegundoCurso.lecture115.sobreescrituraMetodos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,19 +452,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EjemploVarArgs" />
-      <item itemvalue="Application.EjemploEnum" />
-      <item itemvalue="Application.BloquesCodigo" />
       <item itemvalue="Application.EjemploForEach" />
       <item itemvalue="Application.Autoboxing" />
+      <item itemvalue="Application.EjemploSobreescritura" />
+      <item itemvalue="Application.EjemploPolimorfismo" />
+      <item itemvalue="Application.EjemploInstanceOf" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploInstanceOf" />
+        <item itemvalue="Application.EjemploPolimorfismo" />
+        <item itemvalue="Application.EjemploSobreescritura" />
         <item itemvalue="Application.Autoboxing" />
         <item itemvalue="Application.EjemploForEach" />
-        <item itemvalue="Application.BloquesCodigo" />
-        <item itemvalue="Application.EjemploEnum" />
-        <item itemvalue="Application.EjemploVarArgs" />
       </list>
     </recent_temporary>
   </component>
@@ -449,111 +478,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00001" summary="added example">
-      <created>1533362256610</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1533362256610</updated>
-    </task>
-    <task id="LOCAL-00002" summary="intelliJ integration">
-      <created>1533362344424</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1533362344424</updated>
-    </task>
-    <task id="LOCAL-00003" summary="added example">
-      <created>1533362826980</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1533362826980</updated>
-    </task>
-    <task id="LOCAL-00004" summary="added example">
-      <created>1535627153332</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1535627153333</updated>
-    </task>
-    <task id="LOCAL-00005" summary="added example">
-      <created>1535627476123</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1535627476123</updated>
-    </task>
-    <task id="LOCAL-00006" summary="added example">
-      <created>1535637248417</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1535637248417</updated>
-    </task>
-    <task id="LOCAL-00007" summary="added example">
-      <created>1535644397925</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1535644397925</updated>
-    </task>
-    <task id="LOCAL-00008" summary=" added example">
-      <created>1535645880975</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1535645880975</updated>
-    </task>
-    <task id="LOCAL-00009" summary=" added example">
-      <created>1535646334166</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1535646334166</updated>
-    </task>
-    <task id="LOCAL-00010" summary=" added example">
-      <created>1535646509173</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1535646509173</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Minor fixes">
-      <created>1535646607092</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1535646607092</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Minor fixes">
-      <created>1535646665541</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1535646665541</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Minor fixes">
-      <created>1535647199909</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1535647199909</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Minor fixes">
-      <created>1535713548141</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1535713548141</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Added example">
-      <created>1535827191857</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1535827191857</updated>
     </task>
     <task id="LOCAL-00016" summary="Added example">
       <created>1535827474016</created>
@@ -667,11 +591,251 @@
       <option name="project" value="LOCAL" />
       <updated>1536138826175</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Added example">
+      <created>1536139335012</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1536139335012</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Added example">
+      <created>1536139389505</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1536139389505</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Added example">
+      <created>1536307785615</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1536307785615</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added example">
+      <created>1536308118295</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1536308118295</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added example">
+      <created>1536308132711</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1536308132711</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added example">
+      <created>1536308436581</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1536308436581</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added example">
+      <created>1536308884839</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1536308884839</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Added example">
+      <created>1536308961310</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1536308961310</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added example">
+      <created>1536318570581</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318570581</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added example">
+      <created>1536318606839</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318606839</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added example">
+      <created>1536318672507</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318672507</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added example">
+      <created>1536318703273</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318703273</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added example">
+      <created>1536318801016</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318801016</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Added example">
+      <created>1536318856755</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1536318856755</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Added example">
+      <created>1536319107986</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1536319107986</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Added example">
+      <created>1536320456178</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1536320456178</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Added example">
+      <created>1536580605518</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1536580605518</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Added example">
+      <created>1536654407139</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654407139</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Added example">
+      <created>1536654484624</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654484626</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Added example">
+      <created>1536654598908</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654598908</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Added example">
+      <created>1536654689401</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654689402</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Added example">
+      <created>1536654760145</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654760145</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Added example">
+      <created>1536654806700</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654806700</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Added example">
+      <created>1536654844588</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1536654844588</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Added example">
+      <created>1536656064880</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1536656064880</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Added example">
+      <created>1536656718354</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1536656718354</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Added example">
+      <created>1536656964927</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1536656964927</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Added example">
+      <created>1537258046624</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1537258046624</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Added example">
+      <created>1537258256046</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1537258256047</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Added example">
+      <created>1537258340781</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1537258340782</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Added example">
+      <created>1537259349682</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1537259349683</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Added example">
+      <created>1537259600206</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1537259600206</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Added example">
+      <created>1537267486898</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1537267486898</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1120" y="30" width="1141" height="1245" extended-state="0" />
+    <frame x="1119" y="29" width="1142" height="1246" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -679,19 +843,19 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49910393" visible="true" weight="0.3441258" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49910393" visible="true" weight="0.3271719" />
       <window_info id="Structure" order="6" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32942238" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013876" side_tool="true" weight="0.4625113" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32942238" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49953747" weight="0.33076924" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32851985" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49953747" weight="0.33032492" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4986124" weight="0.4625113" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4986124" visible="true" weight="0.46209386" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32912534" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -850,14 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,6 +1021,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/EjemploSobreescritura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Empleado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/EjemploPolimorfismo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Empleado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/EjemploInstanceOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/FiguraGeometrica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Rectangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Triangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -889,17 +1143,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase4.java">
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/EjemploConversionObjetos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java">
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="62" lean-forward="true" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
