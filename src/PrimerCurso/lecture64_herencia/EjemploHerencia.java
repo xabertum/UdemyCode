@@ -10,11 +10,11 @@ public class EjemploHerencia {
      * @param args
      */
     public static void main(String[] args) {
-	Empleado empleado1 = new Empleado("Juan", 18000);
+	lecture64_herencia.Empleado empleado1 = new lecture64_herencia.Empleado("Juan", 18000);
 	System.out.println("imprimimos el objeto Empleado1");
 	System.out.println(empleado1);
 	
-	Empleado empleado2 = new Empleado("Pedro", 25000);
+	lecture64_herencia.Empleado empleado2 = new lecture64_herencia.Empleado("Pedro", 25000);
 	empleado2.setEdad(28);
 	empleado2.setGenero('M');
 	empleado2.setDireccion("Bogota, Colombia");
@@ -22,7 +22,7 @@ public class EjemploHerencia {
 	System.out.println(empleado2);
 	
 	//Al crear un nuevo objeto de java.util.Date nos regresa la fecha actual
-	Cliente cliente1 = new Cliente(new java.util.Date(), true);
+	lecture64_herencia.Cliente cliente1 = new lecture64_herencia.Cliente(new java.util.Date(), true);
 	System.out.println("imprimimos el objeto Cliente1");
 	System.out.println(cliente1);
 	

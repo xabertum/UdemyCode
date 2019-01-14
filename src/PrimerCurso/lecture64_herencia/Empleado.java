@@ -4,7 +4,7 @@ package lecture64_herencia;
  * @author xabertum
  *
  */
-public class Empleado extends Persona {
+public class Empleado extends lecture64_herencia.Persona {
 
     private int idEmpleado;
     private double sueldo;
