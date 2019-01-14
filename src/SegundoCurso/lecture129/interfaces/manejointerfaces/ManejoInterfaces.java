@@ -20,6 +20,7 @@ public class ManejoInterfaces {
         }
         else if ("insertar".equals(accion)) {
             datos.insertar();
+
         }
     }
 
