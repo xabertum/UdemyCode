@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/OperationException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,16 +47,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="210">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/Division.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -130,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Dias.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Continentes.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesAnonimos/BloquesCodigo.java" />
@@ -181,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/OperationException.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/Division.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java" />
       </list>
     </option>
   </component>
@@ -232,7 +229,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547991910038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547998240468" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -351,13 +348,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Added example">
-      <created>1535904514470</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1535904514470</updated>
     </task>
     <task id="LOCAL-00025" summary="Added example">
       <created>1536050891802</created>
@@ -695,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547987724759</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Added example">
+      <created>1547991922165</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1547991922165</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1037,13 +1034,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/OperationException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1055,6 +1045,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
