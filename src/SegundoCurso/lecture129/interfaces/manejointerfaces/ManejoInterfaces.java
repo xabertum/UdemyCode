@@ -1,6 +1,6 @@
 package SegundoCurso.lecture129.interfaces.manejointerfaces;
 
-import SegundoCurso.lecture129.interfaces.datos.AccesoDatos;
+import lecture129.interfaces.datos.AccesoDatos;
 import SegundoCurso.lecture129.interfaces.datos.ImplementacionMysql;
 import SegundoCurso.lecture129.interfaces.datos.ImplementacionOracle;
 

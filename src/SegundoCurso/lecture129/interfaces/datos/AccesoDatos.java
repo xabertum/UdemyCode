@@ -1,6 +1,6 @@
-package SegundoCurso.lecture129.interfaces.datos;
+package lecture129.interfaces.datos;
 
-public interface   AccesoDatos {
+public interface AccesoDatos {
 
     public static int MAX_REGISTROS = 10;
 
