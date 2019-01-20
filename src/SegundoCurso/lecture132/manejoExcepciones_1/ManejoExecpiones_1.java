@@ -1,6 +1,5 @@
 package SegundoCurso.lecture132.manejoExcepciones_1;
 
-
 public class ManejoExecpiones_1 {
 
     public static void main (String[] args) {
