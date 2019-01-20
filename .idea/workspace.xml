@@ -2,116 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eddb7ae-dd28-41a1-959b-0f771dcb3457" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xabertum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xabertum.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/OperationException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_windows/git.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_windows/git.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_windows/laf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_windows/laf.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_windows/path.macros.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_windows/path.macros.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/colors.scheme.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors/Monokai Sublime Text 3.icls" beforeDir="false" afterPath="$PROJECT_DIR$/colors/Monokai Sublime Text 3.icls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors/Obsidian.icls" beforeDir="false" afterPath="$PROJECT_DIR$/colors/Obsidian.icls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/debugger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/external/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-1.10.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jquery-1.10.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jquery-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jquery-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jquery-ui.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jquery-ui.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jquery-ui.structure.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jquery-ui.structure.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jszip/dist/jszip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/jquery/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filetypes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/filetypes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture62/CodigoEstatico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture62/CodigoEstatico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/EjemploHerencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/EjemploHerencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture64_herencia/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture70_sobrecarga_constructor/EjemploSobrecarga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture70_sobrecarga_constructor/EjemploSobrecarga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture70_sobrecarga_constructor/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture70_sobrecarga_constructor/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture70_sobrecarga_constructor/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture70_sobrecarga_constructor/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture72_sobrecarga_metodos/Operaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture72_sobrecarga_metodos/Operaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture72_sobrecarga_metodos/SobrecargaMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture72_sobrecarga_metodos/SobrecargaMetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture74_ejemploPaquetes/EjemploPaquetes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture74_ejemploPaquetes/EjemploPaquetes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture74_ejemploPaquetes/Utileria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture74_ejemploPaquetes/Utileria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture76/UsoPalabraFinal/ClaseFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture76/UsoPalabraFinal/ClaseFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture76/UsoPalabraFinal/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture76/UsoPalabraFinal/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture76/UsoPalabraFinal/UsoPalabraFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture76/UsoPalabraFinal/UsoPalabraFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture84/arrays/EjemploArreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture84/arrays/EjemploArreglos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture84/arrays/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture84/arrays/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture89/matrices/EjemploMatrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture89/matrices/EjemploMatrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture89/matrices/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture89/matrices/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture91/disenoClases/Orden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture91/disenoClases/Orden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture91/disenoClases/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture91/disenoClases/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture91/disenoClases/Ventas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture91/disenoClases/Ventas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Computadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Computadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/DispositivoEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/DispositivoEntrada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/MundoPc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/MundoPc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Orden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Orden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Raton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Raton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimerCurso/lecture93/laboratorioFinal/Teclado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Armas/Arma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Armas/Arma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Armas/Espada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Armas/Espada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Personaje/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Personaje/Personaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Demonio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Demonio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Elfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Elfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Humano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Humano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Orco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Orco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Raza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/Raza/Raza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pruebas_P6/prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pruebas_P6/prueba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture103/argumentosVariables/EjemploVarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture103/argumentosVariables/EjemploVarArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Continentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Continentes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Dias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Dias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesCodigo/BloquesCodigo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesCodigo/BloquesCodigo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesCodigo/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesCodigo/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture108/foreach/EjemploForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture108/foreach/EjemploForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture108/foreach/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture108/foreach/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture110/autoboxing/Autoboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture110/autoboxing/Autoboxing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq1/Clase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture112/modificadoresAccesoPaq2/Clase4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/EjemploSobreescritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/EjemploSobreescritura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture115/sobreescrituraMetodos/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/EjemploPolimorfismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/EjemploPolimorfismo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture117/polimorfismo/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Circulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/ELipse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/EjemploInstanceOf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/FiguraGeometrica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Rectangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture119/instanceOf/Triangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/EjemploConversionObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/EjemploConversionObjetos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Empleado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Escritor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture122/CastingOfObjects/TipoEscritura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/AccesoDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/AccesoDatos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionMysql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionMysql.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionOracle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionOracle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/Aritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/Aritmetica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/EjemploJavaDoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/EjemploJavaDoc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,11 +32,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/Division.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/OperationException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -199,9 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/Aritmetica.java" />
-        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/EjemploJavaDoc.java" />
-        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture103/argumentosVariables/EjemploVarArgs.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Dias.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/Continentes.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java" />
@@ -250,14 +178,17 @@
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionMysql.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/datos/ImplementacionOracle.java" />
         <option value="$PROJECT_DIR$/src/SegundoCurso/lecture129/interfaces/manejointerfaces/ManejoInterfaces.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/OperationException.java" />
+        <option value="$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/Division.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="47" />
-    <option name="width" value="1173" />
-    <option name="height" value="647" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="710" />
+    <option name="y" value="27" />
+    <option name="width" value="656" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -291,23 +222,7 @@
               <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="datos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="manejointerfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="manejoExcepciones_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -317,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547987716980" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547991910038" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -436,34 +351,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Added example">
-      <created>1535882671527</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1535882671527</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Added example">
-      <created>1535882939835</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1535882939835</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Added example">
-      <created>1535883303120</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1535883303120</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Added example">
-      <created>1535904415370</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1535904415370</updated>
     </task>
     <task id="LOCAL-00024" summary="Added example">
       <created>1535904514470</created>
@@ -780,7 +667,35 @@
       <option name="project" value="LOCAL" />
       <updated>1547491438070</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Added example">
+      <created>1547987535611</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1547987535611</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Added example">
+      <created>1547987583820</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1547987583820</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Added example">
+      <created>1547987635875</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1547987635876</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Added example">
+      <created>1547987724759</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1547987724759</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TodoView">
@@ -793,7 +708,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="27" width="1312" height="741" extended-state="6" />
+    <frame x="710" y="27" width="656" height="741" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -801,7 +716,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49910393" visible="true" weight="0.34409449" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49910393" weight="0.6058632" />
       <window_info id="Structure" order="6" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32942238" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013876" side_tool="true" weight="0.4608295" />
@@ -918,34 +833,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/EjemploJavaDoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture103/argumentosVariables/EjemploVarArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture99/javaDoc/Aritmetica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture104/enumeraciones/EjemploEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture106/bloquesCodigo/BloquesCodigo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1140,6 +1027,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture131/javabeans/ManejoJavaBeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/ManejoExecpiones_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/OperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SegundoCurso/lecture132/manejoExcepciones_1/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>

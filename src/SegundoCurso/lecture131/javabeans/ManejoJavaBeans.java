@@ -11,6 +11,3 @@ public class ManejoJavaBeans {
         System.out.println("Edad: " + bean.getEdad());
     }
 }
-
-
-
