@@ -15,6 +15,14 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/UdemyCode_Intelli$ManejoExcepcionesArg.ic" NAME="ManejoExcepcionesArg Coverage Results" MODIFIED="1548026467507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SegundoCurso.lecture132.manejoExcepciones_1.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="UdemyCode" />
   </component>
@@ -181,7 +189,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="710" />
     <option name="y" value="27" />
     <option name="width" value="646" />
@@ -214,13 +228,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UdemyCode_Intelli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UdemyCode_Intelli" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SegundoCurso" type="462c0819:PsiDirectoryNode" />
-              <item name="manejoExcepciones_1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -229,12 +236,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548026256248" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548080068174" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -288,7 +295,7 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SegundoCurso.lecture132.manejoExcepciones_1.*" />
-          <option name="ENABLED" value="true" />
+          <option name="ENABLED" value="false" />
         </pattern>
       </extension>
       <method v="2">
@@ -348,13 +355,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533360316109</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Added example">
-      <created>1536054183474</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1536054183474</updated>
     </task>
     <task id="LOCAL-00028" summary="Added example">
       <created>1536057564234</created>
@@ -692,7 +692,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547998264856</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Added example">
+      <created>1548026279150</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1548026279150</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TodoView">
@@ -705,15 +712,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="27" width="646" height="741" extended-state="4" />
-    <editor active="true" />
+    <frame x="54" y="27" width="1312" height="741" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49910393" weight="0.6043046" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49910393" visible="true" weight="0.2874016" />
       <window_info id="Structure" order="6" sideWeight="0.50089604" side_tool="true" weight="0.19222072" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32942238" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013876" side_tool="true" weight="0.4608295" />
@@ -721,20 +727,21 @@
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49953747" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4986124" visible="true" weight="0.45008183" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4986124" weight="0.45008183" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32912534" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32913387" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.24966079" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.2496063" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32992125" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -806,6 +813,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="intelliJ integration" />
     <MESSAGE value="added example" />
     <MESSAGE value=" added example" />
@@ -1095,7 +1104,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
