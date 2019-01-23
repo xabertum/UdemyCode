@@ -1,4 +1,4 @@
-package lecture70_sobrecarga_constructor;
+package PrimerCurso.lecture70_sobrecarga_constructor;
 
 public class Persona {
 
@@ -6,24 +6,24 @@ public class Persona {
     private String nombre;
     private int edad;
     private static int contadorPersonas;
-    
+
     private Persona() {
-	this.idPersona = ++contadorPersonas;
+        this.idPersona = ++contadorPersonas;
     }
-    
-    public Persona (String nombre, int edad) {
-	this();
-	this.nombre = nombre;
-	this.edad = edad;
-	
+
+    public Persona(String nombre, int edad) {
+        this();
+        this.nombre = nombre;
+        this.edad = edad;
+
     }
-    
+
     @Override
     public String toString() {
-	return "Persona { " + "idPersona=" + idPersona + ", nombre=" + nombre +
-		", edad" + edad + " }";
-	
+        return "Persona { " + "idPersona=" + idPersona + ", nombre=" + nombre +
+                ", edad" + edad + " }";
+
     }
-    
-    
+
+
 }

@@ -1,10 +1,9 @@
-package lecture64_herencia;
+package PrimerCurso.lecture64_herencia;
 
 import java.util.Date;
 
 /**
  * @author xabertum
- *
  */
 public class Cliente extends Persona {
 
@@ -12,14 +11,14 @@ public class Cliente extends Persona {
     private java.util.Date fechaRegistro;
     private boolean vip;
     private static int contadorClientes;
-    
-    public Cliente (Date fechaRegistro, boolean vip) {
-	this.idCliente = ++contadorClientes;
-	this.fechaRegistro = fechaRegistro;
-	this.vip = vip;
+
+    public Cliente(Date fechaRegistro, boolean vip) {
+        this.idCliente = ++contadorClientes;
+        this.fechaRegistro = fechaRegistro;
+        this.vip = vip;
     }
 
-    
+
     // GETTERs & SETTERs
     public boolean isVip() {
         return vip;
@@ -36,11 +35,11 @@ public class Cliente extends Persona {
     public java.util.Date getFechaRegistro() {
         return fechaRegistro;
     }
-    
+
     @Override
-    public String toString () {
-	return super.toString() + "Cliente {" + "idCliente=" + idCliente + 
-		", fechaRegistro=" + fechaRegistro + ", vip=" + vip + " }";
+    public String toString() {
+        return super.toString() + "Cliente {" + "idCliente=" + idCliente +
+                ", fechaRegistro=" + fechaRegistro + ", vip=" + vip + " }";
     }
-    
+
 }

@@ -1,4 +1,4 @@
-package lecture91.disenoClases;
+package PrimerCurso.lecture91.disenoClases;
 
 public class Producto {
 
@@ -6,19 +6,19 @@ public class Producto {
     private String nombre;
     private double precio;
     private static int contadorProductos;
-    
+
     // Constructor vacio 
     private Producto() {
-	// Asignamos el id producto unico por cada objeto creado
-	this.idProducto = ++contadorProductos;
+        // Asignamos el id producto unico por cada objeto creado
+        this.idProducto = ++contadorProductos;
     }
-    
+
     // Constructor sobrecargado de dos argumentos
     public Producto(String nombre, double precio) {
-	// Llamamos al constructor vacio para asignar el idProducto
-	this();
-	this.nombre = nombre;
-	this.precio = precio;
+        // Llamamos al constructor vacio para asignar el idProducto
+        this();
+        this.nombre = nombre;
+        this.precio = precio;
     }
 
     public int getIdProducto() {
@@ -46,10 +46,9 @@ public class Producto {
     }
 
     @Override
-    public String toString () {
-	return "Producto {" + "idProducto #" + idProducto + "nombre = " + nombre + ", precio = " + precio + "}";
+    public String toString() {
+        return "Producto {" + "idProducto #" + idProducto + "nombre = " + nombre + ", precio = " + precio + "}";
     }
-    
-    
-    
+
+
 }

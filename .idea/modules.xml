@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UdemyCode_Intelli.iml" filepath="$PROJECT_DIR$/UdemyCode_Intelli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/prueba_module.iml" filepath="$PROJECT_DIR$/src/prueba_module.iml" />
     </modules>
   </component>
 </project>
