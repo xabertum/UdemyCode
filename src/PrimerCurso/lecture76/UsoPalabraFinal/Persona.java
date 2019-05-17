@@ -1,4 +1,4 @@
-package lecture76.UsoPalabraFinal;
+package PrimerCurso.lecture76.UsoPalabraFinal;
 
 public class Persona {
     private String nombre;
@@ -10,6 +10,6 @@ public class Persona {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-    
-    
+
+
 }

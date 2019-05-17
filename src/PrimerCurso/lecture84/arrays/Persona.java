@@ -1,11 +1,11 @@
-package lecture84.arrays;
+package PrimerCurso.lecture84.arrays;
 
 public class Persona {
 
     private String nombre;
-    
-    public Persona (String nombre) {
-	this.nombre = nombre;
+
+    public Persona(String nombre) {
+        this.nombre = nombre;
     }
 
     public String getNombre() {
@@ -15,10 +15,10 @@ public class Persona {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
-    
+
     @Override
     public String toString() {
-	return "Persona {" + "nombre= " + getNombre() + "}";
+        return "Persona {" + "nombre= " + getNombre() + "}";
     }
-    
+
 }

@@ -1,23 +1,22 @@
-package lecture64_herencia;
+package PrimerCurso.lecture64_herencia;
 
 /**
  * @author xabertum
- *
  */
 public class Empleado extends Persona {
 
     private int idEmpleado;
     private double sueldo;
     private static int contadorEmpleados;
-    
-    public Empleado (String nombre, double sueldo) {
-	super(nombre);
-	this.idEmpleado = ++contadorEmpleados;
-	this.sueldo = sueldo;
+
+    public Empleado(String nombre, double sueldo) {
+        super(nombre);
+        this.idEmpleado = ++contadorEmpleados;
+        this.sueldo = sueldo;
     }
 
     // GETTERs & SETTERs
-    
+
     public double getSueldo() {
         return sueldo;
     }
@@ -29,13 +28,13 @@ public class Empleado extends Persona {
     public int getIdEmpleado() {
         return idEmpleado;
     }
-    
+
     @Override
-    public String toString () {
-	return super.toString() + " Empleado { " + "idEmpleado= " + idEmpleado +
-		"sueldo= " + sueldo + " }";
-		
+    public String toString() {
+        return super.toString() + " Empleado { " + "idEmpleado= " + idEmpleado +
+                "sueldo= " + sueldo + " }";
+
     }
-    
-    
+
+
 }

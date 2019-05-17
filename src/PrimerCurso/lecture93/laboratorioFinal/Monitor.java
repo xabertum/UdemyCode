@@ -1,4 +1,4 @@
-package lecture93.laboratorioFinal;
+package PrimerCurso.lecture93.laboratorioFinal;
 
 public class Monitor {
 
@@ -6,33 +6,33 @@ public class Monitor {
     private String marca;
     private double tamano;
     private static int contadorMonitores;
-    
+
     // Constructor principal
-    private Monitor () {
-	this.idMonitor = ++contadorMonitores;
-    }
-    
-    
-    // Sobrecarga de constructor con dos parametros
-    public Monitor (String marca, double tamano) {
-	this();
-	this.marca = marca;
-	this.tamano = tamano;
-    }
-    
-    @Override
-    public String toString() {
-	return "Monitor { " + "Marca = " + marca + "Tamaño = " + tamano;
+    private Monitor() {
+        this.idMonitor = ++contadorMonitores;
     }
 
-    
+
+    // Sobrecarga de constructor con dos parametros
+    public Monitor(String marca, double tamano) {
+        this();
+        this.marca = marca;
+        this.tamano = tamano;
+    }
+
+    @Override
+    public String toString() {
+        return "Monitor { " + "Marca = " + marca + "Tamano = " + tamano;
+    }
+
+
     // Getters & Setters
-    
+
     public int getIdMonitor() {
         return idMonitor;
     }
 
-    
+
     public String getMarca() {
         return marca;
     }
@@ -51,6 +51,6 @@ public class Monitor {
 
     public static int getContadormonitores() {
         return contadorMonitores;
-    }    
-    
+    }
+
 }

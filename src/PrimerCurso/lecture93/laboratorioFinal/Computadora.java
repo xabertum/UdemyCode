@@ -1,4 +1,4 @@
-package lecture93.laboratorioFinal;
+package PrimerCurso.lecture93.laboratorioFinal;
 
 public class Computadora {
 
@@ -8,31 +8,31 @@ public class Computadora {
     private Teclado teclado;
     private Raton raton;
     private static int contadorComputadoras;
-    
-    
+
+
     // Constructor
-    private Computadora () {
-	this.idComputadora = ++contadorComputadoras;
+    private Computadora() {
+        this.idComputadora = ++contadorComputadoras;
     }
-    
-    
+
+
     // Sobrecarga de constructor con argumentos
-    public Computadora (String nombre, Monitor monitor, Teclado teclado, Raton raton) {
-	this();
-	this.nombre = nombre;
-	this.monitor = monitor;
-	this.teclado = teclado;
-	this.raton = raton;
+    public Computadora(String nombre, Monitor monitor, Teclado teclado, Raton raton) {
+        this();
+        this.nombre = nombre;
+        this.monitor = monitor;
+        this.teclado = teclado;
+        this.raton = raton;
     }
-    
-    public String toString () {
-	return "Computadora { " + "idComputador = " + idComputadora + "Nombre = " + nombre
-		+ " Monitor = " + monitor + " Teclado = " + teclado + " Raton = " + raton;
+
+    public String toString() {
+        return "Computadora { " + "idComputador = " + idComputadora + "Nombre = " + nombre
+                + " Monitor = " + monitor + " Teclado = " + teclado + " Raton = " + raton;
     }
 
 
     // Getters & Setters
-    
+
     public int getIdComputadora() {
         return idComputadora;
     }
@@ -81,9 +81,6 @@ public class Computadora {
     public void setRaton(Raton raton) {
         this.raton = raton;
     }
-    
-    
-    
-    
-    
+
+
 }
