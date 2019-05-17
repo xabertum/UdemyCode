@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/xabertum/UdemyCode" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xabertum/UdemyCode_Intelli" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Javier Delgado\Dropbox\Eclipse_workspace" />
+    <option name="cloneParentDir" value="C:\Users\Javier Delgado\Documents" />
   </component>
 </application>
