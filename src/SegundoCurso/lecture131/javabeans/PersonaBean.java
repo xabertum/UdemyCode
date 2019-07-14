@@ -2,8 +2,8 @@ package SegundoCurso.lecture131.javabeans;
 
 //1. implementa la interface Serializable del paquete java.io
 public class PersonaBean implements java.io.Serializable {
-
-    //2. Cada propiedad es de tipo private
+  	
+	//2. Cada propiedad es de tipo private
     private String nombre;
     private int edad;
 
@@ -17,7 +17,7 @@ public class PersonaBean implements java.io.Serializable {
     }
 
 
-    //4. Por cada propiedad agrga un get y set o solo alguno de ellos.
+    //4. Por cada propiedad agrega un get y set o solo alguno de ellos.
     public String getNombre() {
         return nombre;
     }
