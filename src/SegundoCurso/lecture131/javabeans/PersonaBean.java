@@ -1,6 +1,4 @@
-package lecture131.javabeans;
-
-
+package SegundoCurso.lecture131.javabeans;
 
 //1. implementa la interface Serializable del paquete java.io
 public class PersonaBean implements java.io.Serializable {

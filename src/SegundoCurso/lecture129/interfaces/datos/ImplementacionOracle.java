@@ -1,6 +1,6 @@
 package SegundoCurso.lecture129.interfaces.datos;
 
-public class ImplementacionOracle implements lecture129.interfaces.datos.AccesoDatos {
+public class ImplementacionOracle implements SegundoCurso.lecture129.interfaces.datos.AccesoDatos {
 
     @Override
     public void insertar () {

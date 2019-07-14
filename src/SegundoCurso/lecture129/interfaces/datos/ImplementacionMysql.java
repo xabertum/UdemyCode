@@ -1,6 +1,6 @@
 package SegundoCurso.lecture129.interfaces.datos;
 
-public class ImplementacionMysql implements lecture129.interfaces.datos.AccesoDatos {
+public class ImplementacionMysql implements SegundoCurso.lecture129.interfaces.datos.AccesoDatos {
     @Override
     public void insertar () {
         System.out.println("Insertar desde Mysql");
